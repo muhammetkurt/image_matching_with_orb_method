@@ -1,0 +1,3 @@
+﻿  main.cpp
+  cvui.h: compiling implementation because of CVUI_IMPLEMENTATION. See: https://dovyski.github.io/cvui/usage/
+  orbArray.vcxproj -> C:\Users\asus\source\repos\orbArray\x64\Debug\orbArray.exe
